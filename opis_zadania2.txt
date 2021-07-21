@@ -1,0 +1,10 @@
+Wykorzystując layout stworzony w zadaniu nr 1 dodaj poniższą logikę przy użyciu Reacta (w dowolnie wybranej formie, komponent reactowy lub project reacta) v
+- możliwość zwiększania/zmniejszania liczby artykułów w koszyku poprzez klikanie przycików +/- v
+- aktualizacja sum wartości następuje po kliknięciu w ikonkę ołówka lub przycisku "Update Shopping Cart" v
+- wartość wysyłki (obok napisu SHIPPING) powinna być zależna od wartości sumy artykułów, artykuły do kwoty $100 (włącznie) koszt wysyłki $23.80, powyżej $100 wysyłka $0 (darmowa) v
+- wartość Subtotal pokazuję sumę wartości artykułów bez kosztów wysyłki v
+- wartość Grand Total pokazuje sumę Subtotal oraz SHIPPING v
+- kliknięcie "Proceed to checkout" powoduje ukrycie koszyka oraz wyświetlenie komunikatu "Your order has been submitted successfully" v
+- kliknięcie w ikonę krzyżyka powoduje ukrycie produktu oraz wyzerowanie sum wartości v
+
+Rozwiązanie prześlij w formie pliku lub jako link do projektu w repozytorium GIT

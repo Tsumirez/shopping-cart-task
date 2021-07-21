@@ -1,0 +1,5 @@
+Rozbuduj plik index.html tak aby powstał design z pliku cart-design.png
+Niezbędne obrazki znajdziesz w folderze /images. 
+Celem zadania jest tylko odwzorowanie designu i sprawdzenie przy tym ogólnej znajomości html/css.
+Klikanie w przyciski nie powoduje żadnych akcji. 
+Zastosowana czcionka to Roboto.
